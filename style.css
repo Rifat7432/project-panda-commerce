@@ -1,0 +1,35 @@
+*{
+    justify-content: space-;
+}
+.carousel-background{
+    background-color:  #feeae9;
+}
+.bye-now-button{
+    background-color: #ff589b;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    
+}
+.price{
+    color: #ff589b;
+        
+    }
+    .view-1{
+        background-color: #FF9C35;
+    color: white;
+
+    }
+    .view-2{
+        background-color: #4289FF;
+    color: white;
+
+    }
+    .view-3{
+        background-color: #ff589b;
+    color: white;
+
+    }
+    .bg-input{
+        background-color: #FFF2F1;
+    }
